@@ -1,0 +1,23 @@
+{
+    "gml_Object_obj_cat_Other_75/controller_connect":"Kontroler #{0} je privezan!",
+    "gml_Object_obj_cat_Other_75/controller_disconnect":"Kontroler #{0} je bio iskljucen.",
+    
+    "gml_Object_obj_task_Create_0/mice":"Misevi",
+    "gml_Object_obj_task_Create_0/pond":"Jezerce",
+    "gml_Object_obj_task_Create_0/crumbs":"Mrvice",
+
+    "gml_Object_obj_food_Create_0_gml_Script_Food@gml_Object_obj_food_Create_0/pickle":"Krastavac",
+    "gml_Object_obj_food_Create_0_gml_Script_Food@gml_Object_obj_food_Create_0/apple":"Jabuku",
+    "gml_Object_obj_food_Create_0_gml_Script_Food@gml_Object_obj_food_Create_0/bone":"Kost",
+    "gml_Object_obj_food_Create_0_gml_Script_Food@gml_Object_obj_food_Create_0/pizza":"Picu",
+
+    "gml_Object_obj_cat_paw_Create_0/obj":"Cilj: ",
+    "gml_Object_obj_cat_paw_Create_0/obj_str":"Hranite macku samo dobrom hranom!",
+    "gml_Object_obj_cat_paw_Step_0/point_singular":"bod",
+    "gml_Object_obj_cat_paw_Step_0/point_middle":"boda",
+    "gml_Object_obj_cat_paw_Step_0/point_plural":"bodova",
+    "gml_Object_obj_cat_paw_Step_0/bad_food_eaten":"Pojeli ste {0}: izgubljeno {1} {2}!",
+    "gml_Object_obj_cat_paw_Step_0/bad_food_limit":"Pojeli ste previse lose hrane!",
+    "gml_Object_obj_cat_paw_Step_0/lost_all_points":"Izgubili ste sve bodove!",
+    "gml_Object_obj_cat_paw_Step_0/good_food_eaten":"Pojeli ste {0}: {1} {2}!"
+}

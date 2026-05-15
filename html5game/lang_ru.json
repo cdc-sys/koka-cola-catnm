@@ -1,0 +1,23 @@
+{
+    "gml_Object_obj_cat_Other_75/controller_connect":"Контроллер #{0} подключен!",
+    "gml_Object_obj_cat_Other_75/controller_disconnect":"Конроллер #{0} отключен.",
+    
+    "gml_Object_obj_task_Create_0/mice":"Мыши",
+    "gml_Object_obj_task_Create_0/pond":"Пруд",
+    "gml_Object_obj_task_Create_0/crumbs":"Крошки",
+
+    "gml_Object_obj_food_Create_0_gml_Script_Food@gml_Object_obj_food_Create_0/pickle":"Огурец",
+    "gml_Object_obj_food_Create_0_gml_Script_Food@gml_Object_obj_food_Create_0/apple":"Яблоко",
+    "gml_Object_obj_food_Create_0_gml_Script_Food@gml_Object_obj_food_Create_0/bone":"Кость",
+    "gml_Object_obj_food_Create_0_gml_Script_Food@gml_Object_obj_food_Create_0/pizza":"Пиццу",
+
+    "gml_Object_obj_cat_paw_Create_0/obj":"Цель: ",
+    "gml_Object_obj_cat_paw_Create_0/obj_str":"Кормите кота только хорошей едой!",
+    "gml_Object_obj_cat_paw_Step_0/point_singular":"очко",
+    "gml_Object_obj_cat_paw_Step_0/point_middle":"очка",
+    "gml_Object_obj_cat_paw_Step_0/point_plural":"очков",
+    "gml_Object_obj_cat_paw_Step_0/bad_food_eaten":"Вы съели {0}: потеряно {1} {2}!",
+    "gml_Object_obj_cat_paw_Step_0/bad_food_limit":"Съедено слишком много плохой еды!",
+    "gml_Object_obj_cat_paw_Step_0/lost_all_points":"Ваши очки аннулированы!",
+    "gml_Object_obj_cat_paw_Step_0/good_food_eaten":"Вы съели {0}: {1} {2}!"
+}
